@@ -1,1 +1,3 @@
 Some notes about coding skills.
+
+test for git push
